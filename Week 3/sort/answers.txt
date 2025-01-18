@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Because it took the highest amount of time to sort, which is consistent with its O(n^2) Ω(n) time complexity.
+
+sort2 uses: Merge sort
+
+How do you know?: Because it took the least amount of time to sort, which aligns with its O(n log n) Ω(n log n) time complexity.
+
+sort3 uses: Selection sort
+
+How do you know?: Because it took a moderate amount of time to sort, which is expected given its O(n^2) Ω(n^2) time complexity but fewer swaps compared to Bubble Sort.
