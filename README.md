@@ -30,27 +30,18 @@ Throughout the course, I worked with a variety of programming languages and tool
 
 For the **Final Project**, I combined everything I learned during the course to create an application that I’m proud of.
 
-- **View Final Project**: [Final Project Repository](./final_project)  
-*(Replace `./final_project` with the actual link to your final project repository or file.)*
+- **View Final Project**: [Final Project Repository](https://github.com/Hsu-Hlaing-Htet/Student-Management-System)  
 
-- **Video Demo**: [Watch on YouTube](https://www.youtube.com/watch?v=example)  
-*(Replace `https://www.youtube.com/watch?v=example` with the actual link to your YouTube video.)*
-
----
+- **Video Demo**: [Watch on YouTube](https://youtu.be/SGLG6QBsbc4?si=Yvef54IdPePgfYrB)  
 
 ## Certificate of Completion
 
 I’m proud to share my achievement:  
-![CS50 Certificate](./cs50_certificate.png)
+![Certificate](https://github.com/Hsu-Hlaing-Htet/HarvardX-CS50x/blob/main/certificate/CS50x.pdf)
 
-*(Ensure the certificate image is uploaded to your repository.)*
-
----
 
 ## License
 
-This repository is licensed under the [MIT License](./LICENSE). Feel free to explore, share, or modify the content, but please credit me as the original author.
-
----
+This repository is licensed under the [MIT License](./LICENSE).
 
 **"This is CS50."**
